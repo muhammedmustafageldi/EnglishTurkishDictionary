@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/carter_one</item>
+        <item>@font/ceviche_one</item>
+        <item>@font/hanalei_fill</item>
+        <item>@font/luckiest_guy</item>
+    </array>
+</resources>
